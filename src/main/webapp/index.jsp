@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Tomcat server!</h2>
+<h2>Deployment with Ansible playbook</h2>
 </body>
 </html>
