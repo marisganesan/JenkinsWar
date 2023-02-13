@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Deployment with Ansible playbook</h2>
+<h2>Deployment with Ansible playbook 2</h2>
 </body>
 </html>
